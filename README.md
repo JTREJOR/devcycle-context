@@ -2,6 +2,8 @@
 
 Documento de referencia y resumen ejecutivo del proyecto **DevCycle Automatization** (Liverpool), consolidado a partir de las minutas y sesiones técnicas del equipo (agosto - septiembre 2026).
 
+> Se puede consultar el repositorio de la aplicación en este enlace: [JTREJOR/devcycle-back-front](https://github.com/JTREJOR/devcycle-back-front).
+
 ---
 
 ## 1. Visión General del Proyecto
